@@ -1,0 +1,22 @@
+{
+  "name": "clothes-sale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ash515/Clothes-Sale-System.git"
+  },
+  "author": "ashwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ash515/Clothes-Sale-System/issues"
+  },
+  "homepage": "https://github.com/Ash515/Clothes-Sale-System#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
