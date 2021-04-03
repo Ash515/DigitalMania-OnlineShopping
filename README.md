@@ -8,5 +8,5 @@ One online platform for all purchase
 - Pets
 
 # 🔰Developer
-(Ashwin Kumar Ramaswamy)[https://github.com/Ash515]
+[Ashwin Kumar Ramaswamy](https://github.com/Ash515)
 
