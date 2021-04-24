@@ -1,6 +1,11 @@
 # DigitalMania-OnlineShopping 👓❤👩‍💻
 One online platform for all purchase
 
+# Technologies 👩‍💻
+- ReactJS
+- NodeJS
+
+
 # 🔰Categories
 - Men
 - Female 
