@@ -4,6 +4,8 @@ One online platform for all purchase
 # Technologies 👩‍💻
 - ReactJS
 - NodeJS
+- MongoDB 
+- Mongoose
 
 
 # 🔰Categories
