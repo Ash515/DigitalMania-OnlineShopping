@@ -1,19 +1,19 @@
 # DigitalMania-OnlineShopping 👓❤👩‍💻
 One online platform for all purchase
 
-# Technologies 👩‍💻
-- ReactJS
-- NodeJS
-- MongoDB 
+## Technologies
+- Frontend - ReactJS, HTML, CSS.
+- Backend - NodeJS
+- DatabaseMongoDB 
 - Mongoose
 
 
-# 🔰Categories
+## Categories
 - Men
 - Female 
 - Children
 - Pets
 
-# 🔰Developer
+# Developer
 [Ashwin Kumar Ramaswamy](https://github.com/Ash515)
 
