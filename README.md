@@ -4,8 +4,8 @@ One online platform for all purchase
 ## Technologies
 - Frontend - ReactJS, HTML, CSS.
 - Backend - NodeJS
-- DatabaseMongoDB 
-- Mongoose
+- Database - MongoDB, Mongoose.
+
 
 
 ## Categories
